@@ -2,7 +2,7 @@ package com.victor.Tree;
 
 import java.util.*;
 
-public class BST<E extends Comparable<E>> {
+public class BST<E extends Comparable<E>> { // can be used in Set
 
     private class Node {
         public E e;
